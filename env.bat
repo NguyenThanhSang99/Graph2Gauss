@@ -1,0 +1,1 @@
+call Graph2Gauss/Scripts/activate.bat
